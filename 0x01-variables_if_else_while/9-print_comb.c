@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - main block
-
+ *
  * starting from 0, followed by a new line.
  * Return: 0
  */
