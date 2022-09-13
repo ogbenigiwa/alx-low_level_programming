@@ -9,14 +9,13 @@
 int main(void)
 {
 	int lower = 'a';
+	int upper = 'A';
 
 	while (lower <= 'z')
 	{
 		putchar(lower);
 		lower++;
 	}
-
-	int upper = 'A';
 
 	while (upper <= 'Z')
 	{
