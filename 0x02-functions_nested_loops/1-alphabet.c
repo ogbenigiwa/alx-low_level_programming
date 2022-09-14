@@ -4,7 +4,7 @@
  * followed by a new line
  * Return: void
  */
-void print_alphabet(voidi)
+void print_alphabet(void)
 {
 	char ch = 'a';
 
