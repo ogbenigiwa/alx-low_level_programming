@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 /**
  * *_strspn - return the number of occurent of a string
  * @s: string to check
